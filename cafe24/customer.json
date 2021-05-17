@@ -1,0 +1,24 @@
+{
+  "customers": [
+    {
+      "shop_no": 1,
+      "member_id": "z3narondemo26960",
+      "group_no": 1,
+      "member_authentication": "T",
+      "use_blacklist": "F",
+      "blacklist_type": "",
+      "sms": "T",
+      "news_mail": "T",
+      "solar_calendar": "T",
+      "total_points": "100.00",
+      "available_points": "100.00",
+      "used_points": "0.00",
+      "last_login_date": "2021-05-14T18:22:27+08:00",
+      "gender": "",
+      "use_mobile_app": "F",
+      "available_credits": "0.00",
+      "created_date": "2021-05-14T17:33:41+08:00",
+      "fixed_group": "F"
+    }
+  ]
+}
