@@ -1,0 +1,18 @@
+{
+    "shipments": [
+        {
+            "shop_no": 1,
+            "shipping_code": "D-20210514-0000029-000",
+            "order_id": "20210514-0000029",
+            "tracking_no": "20210514-test",
+            "tracking_no_updated_date": "2021-05-14T18:35:54+08:00",
+            "shipping_company_code": "0210",
+            "items": [
+                {
+                    "status": "shipped",
+                    "order_item_code": "20210514-0000029-01"
+                }
+            ]
+        }
+    ]
+}
