@@ -4,6 +4,11 @@
       "id": 1,
       "count": 2,
       "purifiers":[12345,67788]
+    },
+    {
+      "id": 2,
+      "count": 1,
+      "purifiers":[99999]
     }
   ],
   "profile": {
