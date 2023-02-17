@@ -8,6 +8,20 @@
         "min": 2,
         "max": 2
       }
+    },
+    "purifiers": {
+      "hasMany": "item"
     }
+  },
+  "Item": {
+    "_": {
+      "items": 2
+    },
+    "object_id": {
+      "int": {
+        "min": 90000,
+        "max": 99999
+      }
+    },
   }
 }
