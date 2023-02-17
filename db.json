@@ -1,5 +1,5 @@
 {
-  "purifiers": [
+  "users": [
     {
       "id": 1,
       "count": 2,
@@ -13,10 +13,51 @@
     {
       "id": 3,
       "count": 3,
-      "purifiers": [{ "purifier_id": "12123123" }, { "purifier_id": "12123133" }, { "purifier_id": "12312312" }]
+      "purifiers": [{ "purifier_id": "86767878" }, { "purifier_id": "24767696" }, { "purifier_id": "12312312" }]
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "purifiers": [
+    {
+      "id": 12123123,
+      "balance_liter_over": "YES",
+      "validity_expired": "NO",
+      "sync_done": "NO",
+      "network_type": "BLE"
+    },
+    {
+      "id": 12123133,
+      "balance_liter_over": "YES",
+      "validity_expired": "NO",
+      "sync_done": "NO",
+      "network_type": "WIFI"
+    },
+    {
+      "id": 99999999,
+      "balance_liter_over": "YES",
+      "validity_expired": "NO",
+      "sync_done": "NO",
+      "network_type": "BLE"
+    },
+    {
+      "id": 86767878,
+      "balance_liter_over": "YES",
+      "validity_expired": "NO",
+      "sync_done": "NO",
+      "network_type": "WIFI"
+    },
+    {
+      "id": 24767696,
+      "balance_liter_over": "YES",
+      "validity_expired": "NO",
+      "sync_done": "NO",
+      "network_type": "BLE"
+    },
+    {
+      "id": 12312312,
+      "balance_liter_over": "YES",
+      "validity_expired": "NO",
+      "sync_done": "NO",
+      "network_type": "BLE"
+    }
+  ]
 }
