@@ -1,0 +1,7 @@
+{
+  count: 2,
+  purifiers:{
+    purifier_1: 12345,
+    purifier_2: 34566
+  }
+}
