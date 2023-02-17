@@ -9,7 +9,7 @@
         "max": 2
       }
     },
-    "purifiers": {
+    "items": {
       "hasMany": "item"
     }
   },
