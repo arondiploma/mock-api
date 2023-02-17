@@ -1,13 +1,17 @@
 {
   "Purifier": {
     "_": {
-      "items": 10
-    }, 
-    "id":{
-      "int": {
-        "min": 9000,
-        "max": 9999
-      }
+      "items": 2,
+       "data": [
+        {
+          "title": "First title",
+          "body": "You can use your own data or have random values generated for you."
+        },
+        {
+          "title": "Second title",
+          "body": "The rest of the posts will have random values"
+        }
+      ]
     }
   }
 }
