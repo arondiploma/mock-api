@@ -3,7 +3,7 @@
     {
       "id": 1,
       "count": 2,
-      "purifiers": [{ "purifier_id": "12123123" }, { "purifier_id": "12123133" }, { "purifier_id": "" },]
+      "purifiers": [{ "purifier_id": "12123123" }, { "purifier_id": "12123133" }, { "purifier_id": "" }]
     },
     {
       "id": 2,
