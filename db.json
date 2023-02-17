@@ -1,8 +1,9 @@
 {
-  "posts": [
+  "purifiers": [
     {
       "id": 1,
-      "title": "hello"
+      "count": 2,
+      "purifiers":[12345,67788]
     }
   ],
   "profile": {
