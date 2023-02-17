@@ -22,6 +22,9 @@
         "min": 90000,
         "max": 99999
       }
+    },
+    "purifier": {
+      "belongsTo": "Purifier"
     }
   }
 }
