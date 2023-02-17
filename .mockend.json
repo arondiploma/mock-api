@@ -1,1 +1,13 @@
-{"Purifiers": {{"count": 2, "purifiers":[12345, 234522]}}
+{
+  "Purifier": {
+    "_": {
+      "items": 10
+    }, 
+    "id":{
+      "int": {
+        "min": 9000,
+        "max": 9999
+      }
+    }
+  }
+}
