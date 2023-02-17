@@ -9,6 +9,11 @@
       "id": 2,
       "count": 1,
       "purifiers":[99999]
+    },
+    {
+      "id": 3,
+      "count": 3,
+      "purifiers":[99999,123123,542323]
     }
   ],
   "profile": {
