@@ -1,17 +1,13 @@
 {
   "Purifier": {
     "_": {
-      "items": 2,
-       "data": [
-        {
-          "title": "First title",
-          "body": "You can use your own data or have random values generated for you."
-        },
-        {
-          "title": "Second title",
-          "body": "The rest of the posts will have random values"
-        }
-      ]
+      "items": 1
+    },
+    "count": {
+      "int": {
+        "min": 2,
+        "max": 2
+      }
     }
   }
 }
