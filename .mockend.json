@@ -10,7 +10,7 @@
       }
     },
     "items": {
-      "hasMany": "item"
+      "hasMany": "Item"
     }
   },
   "Item": {
