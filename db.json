@@ -3,28 +3,28 @@
     {
       "id": 1,
       "count": 2,
-      "purifiers":{
+      "purifiers": {
         "purifier_1": "12123123",
         "purifier_2": "12123133",
-        "purifier_3": "",
+        "purifier_3": ""
       }
     },
     {
       "id": 2,
       "count": 1,
-      "purifiers":{
+      "purifiers": {
         "purifier_1": "999999",
         "purifier_2": "",
-        "purifier_3": "",
+        "purifier_3": ""
       }
     },
     {
       "id": 3,
       "count": 3,
-      "purifiers":{
+      "purifiers": {
         "purifier_1": "12123123",
         "purifier_2": "12123133",
-        "purifier_3": "12312312",
+        "purifier_3": "12312312"
       }
     }
   ],
