@@ -3,16 +3,22 @@
     {
       "id": 1,
       "count": 2,
+      "age": 2,
+      "isNewUser": "YES",
       "purifiers": [{ "purifier_id": "12123123" }, { "purifier_id": "12123133" }, { "purifier_id": "" }]
     },
     {
       "id": 2,
       "count": 1,
+      "age": 4,
+      "isNewUser": "NO",
       "purifiers": [{ "purifier_id": "99999999" }, { "purifier_id": "" }, { "purifier_id": "" }]
     },
     {
       "id": 3,
       "count": 3,
+      "age": 4,
+      "isNewUser": "NO",
       "purifiers": [{ "purifier_id": "86767878" }, { "purifier_id": "24767696" }, { "purifier_id": "12312312" }]
     }
   ],
