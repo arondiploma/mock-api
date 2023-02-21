@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": 8957215215773,
+      "id": 1,
       "count": 2,
       "purifiers": [{ "purifier_id": "12123123" }, { "purifier_id": "12123133" }, { "purifier_id": "" }]
     },
@@ -58,6 +58,12 @@
       "validity_expired": "NO",
       "sync_done": "NO",
       "network_type": "BLE"
+    }
+  ],
+  "network_status":[
+    {
+      "id": 12123123,
+      "status": "connected"
     }
   ]
 }
