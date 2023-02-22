@@ -76,17 +76,20 @@
     {
       "id": "p1",
       "payment_captured": "YES",
-      "sync_post_recharged": "YES"
+      "sync_post_recharged": "YES",
+      "last_payment": "Rs X for a 1 month subscription of the SOLO Plan on Y date"
     },
     {
       "id": "p3",
       "payment_captured": "NO",
-      "sync_post_recharged": "YES"
+      "sync_post_recharged": "YES",
+      "last_payment": "Rs X for a 1 month subscription of the SOLO Plan on Y date"
     },
     {
       "id": "p4",
       "payment_captured": "NO",
-      "sync_post_recharged": "YES"
+      "sync_post_recharged": "YES",
+      "last_payment": "Rs X for a 1 month subscription of the SOLO Plan on Y date"
     }
   ]
 }
