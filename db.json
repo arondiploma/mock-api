@@ -5,61 +5,61 @@
       "count": 2,
       "age": 2,
       "isNewUser": "YES",
-      "purifiers": [{ "purifier_id": "12123123" }, { "purifier_id": "12123133" }, { "purifier_id": "" }]
+      "purifiers": [{ "purifier_id": "p1" }, { "purifier_id": "p2" }, { "purifier_id": "" }]
     },
     {
       "id": 2,
       "count": 1,
       "age": 4,
       "isNewUser": "NO",
-      "purifiers": [{ "purifier_id": "99999999" }, { "purifier_id": "" }, { "purifier_id": "" }]
+      "purifiers": [{ "purifier_id": "p3" }, { "purifier_id": "" }, { "purifier_id": "" }]
     },
     {
       "id": 3,
       "count": 3,
       "age": 4,
       "isNewUser": "NO",
-      "purifiers": [{ "purifier_id": "86767878" }, { "purifier_id": "24767696" }, { "purifier_id": "12312312" }]
+      "purifiers": [{ "purifier_id": "p4" }, { "purifier_id": "p5" }, { "purifier_id": "p6" }]
     }
   ],
   "purifiers": [
     {
-      "id": 12123123,
+      "id": "p1",
       "balance_liter_over": "YES",
       "validity_expired": "NO",
       "sync_done": "NO",
       "network_type": "BLE"
     },
     {
-      "id": 12123133,
+      "id": "p2",
       "balance_liter_over": "YES",
       "validity_expired": "NO",
       "sync_done": "NO",
       "network_type": "WIFI"
     },
     {
-      "id": 99999999,
+      "id": "p3",
       "balance_liter_over": "YES",
       "validity_expired": "NO",
       "sync_done": "NO",
       "network_type": "BLE"
     },
     {
-      "id": 86767878,
+      "id": "p4",
       "balance_liter_over": "YES",
       "validity_expired": "NO",
       "sync_done": "NO",
       "network_type": "WIFI"
     },
     {
-      "id": 24767696,
+      "id": "p5",
       "balance_liter_over": "YES",
       "validity_expired": "NO",
       "sync_done": "NO",
       "network_type": "BLE"
     },
     {
-      "id": 12312312,
+      "id": "p6",
       "balance_liter_over": "YES",
       "validity_expired": "NO",
       "sync_done": "NO",
@@ -68,22 +68,25 @@
   ],
   "network_status": [
     {
-      "id": 12123123,
+      "id": "p1",
       "status": "connected"
     }
   ],
   "payment": [
     {
-      "id": 1,
-      "payment_captured": "YES"
+      "id": "p1",
+      "payment_captured": "YES",
+      "sync_post_recharged": "YES"
     },
     {
-      "id": 2,
-      "payment_captured": "NO"
+      "id": "p3",
+      "payment_captured": "NO",
+      "sync_post_recharged": "YES"
     },
     {
-      "id": 3,
-      "payment_captured": "NO"
+      "id": "p4",
+      "payment_captured": "NO",
+      "sync_post_recharged": "YES"
     }
   ]
 }
