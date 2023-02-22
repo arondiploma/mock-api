@@ -71,5 +71,19 @@
       "id": 12123123,
       "status": "connected"
     }
-  ]
+  ],
+  "payment": [
+    {
+      "id": 1,
+      "payment_captured": "YES"
+    },
+    {
+      "id": 2,
+      "payment_captured": "NO"
+    },
+    {
+      "id": 3,
+      "payment_captured": "NO"
+    }
+  ],
 }
