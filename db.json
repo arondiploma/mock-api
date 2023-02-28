@@ -28,42 +28,54 @@
       "balance_liter_over": "YES",
       "validity_expired": "NO",
       "sync_done": "NO",
-      "network_type": "BLE"
+      "network_type": "BLE",
+      "is_scheduled": "YES",
+      "visit_schedule": "3/20/2023 2:00 PM"
     },
     {
       "id": "p2",
       "balance_liter_over": "YES",
       "validity_expired": "NO",
       "sync_done": "NO",
-      "network_type": "WIFI"
+      "network_type": "WIFI",
+      "is_scheduled": "NO",
+      "visit_schedule": ""
     },
     {
       "id": "p3",
       "balance_liter_over": "YES",
       "validity_expired": "NO",
       "sync_done": "NO",
-      "network_type": "BLE"
+      "network_type": "BLE",
+      "is_scheduled": "NO",
+      "visit_schedule": ""
     },
     {
       "id": "p4",
       "balance_liter_over": "YES",
       "validity_expired": "NO",
       "sync_done": "NO",
-      "network_type": "WIFI"
+      "network_type": "WIFI",
+      "is_scheduled": "NO",
+      "visit_schedule": ""
     },
     {
       "id": "p5",
       "balance_liter_over": "YES",
       "validity_expired": "NO",
       "sync_done": "NO",
-      "network_type": "BLE"
+      "network_type": "BLE",
+      "is_scheduled": "NO",
+      "visit_schedule": ""
     },
     {
       "id": "p6",
       "balance_liter_over": "YES",
       "validity_expired": "NO",
       "sync_done": "NO",
-      "network_type": "BLE"
+      "network_type": "BLE",
+      "is_scheduled": "NO",
+      "visit_schedule": ""
     }
   ],
   "network_status": [
